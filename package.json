@@ -1,0 +1,14 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Snake game implemented in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Klas Mellbourn (klas@mellbourn.net)",
+  "license": "ISC"
+}
